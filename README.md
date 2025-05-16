@@ -61,7 +61,7 @@ To get started with the Music Festival Database, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SotirisKav/music-festival.git
+   git clone https://github.com/SotirisKav/music-festival.git](https://github.com/GiorgosVyz/University-music-festival-management-system
    cd music-festival
 
 2. **Set up the MySQL database**:
